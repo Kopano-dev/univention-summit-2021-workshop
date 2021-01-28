@@ -3,3 +3,5 @@
 Workshop held during the [2021 Univention Summit](https://www.univention-summit.com/)
 
 [More details](https://www.univention-summit.de/#agenda-5ffeeaca105f0)
+
+[Presentation slides](20210128_kopano-univention-summit.pdf)

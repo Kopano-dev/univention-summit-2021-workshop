@@ -31,7 +31,7 @@ if [ "$(ucr get appcenter/apps/openid-connect-provider/status)" = "installed" ];
     exit 1
 fi
 
-if [ "$(ucr get appcenter/apps/kopano-mmet/status)" = "installed" ]; then
+if [ "$(ucr get appcenter/apps/kopano-meet/status)" = "installed" ]; then
     echo "Cannot run on the same system as the kopano-meet app"
     exit 1
 fi
